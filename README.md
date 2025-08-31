@@ -311,4 +311,4 @@ MIT License - Free for portfolio, research, and commercial applications.
 
 ⭐ **Star this repository** if it helped advance your ML career!
 
-**Portfolio Links**: [LinkedIn](https://linkedin.com/in/yourprofile) | [Live Demo](https://your-demo-site.com) | [Technical Blog](https://your-blog.com/molecular-gnn-post)
+**Portfolio Links**: [LinkedIn](https://www.linkedin.com/in/janani-jayalakshmi/) 
